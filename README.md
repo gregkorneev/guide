@@ -1,3 +1,4 @@
+# [Установка](https://github.com/gregkorneev/C-Sharp-guide/blob/main/🐧%20УСТАНОВКА%20.NET%20В%20WSL%20(Ubuntu)%20и%20macOS.md)
 # 🚀 Создание и запуск проекта
 
 ## Создать проект

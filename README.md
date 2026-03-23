@@ -57,6 +57,10 @@ git commit -m "написать текст коммита"
 ```bash
 git push
 ```
+```bash
+git add . && git commit -m "upd" && git push
+``` 
+
 
 # 🔨 Работа с проектом
 
